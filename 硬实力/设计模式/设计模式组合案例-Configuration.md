@@ -2,11 +2,11 @@
 
 ## Configuration有哪些对象
 
-![image-20200713000422819](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200713000422819.png)
+![image-20200713000422819](https://cdn.jsdelivr.net/gh/lengyjc/imgrepository/img/20200713003642.png)
 
 ## 时序图
 
-![image-20200713000720072](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200713000720072.png)
+![image-20200713000720072](https://cdn.jsdelivr.net/gh/lengyjc/imgrepository/img/20200713003649.png)
 
 ## 代码实现
 
